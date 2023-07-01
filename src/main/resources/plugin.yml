@@ -1,0 +1,8 @@
+name: SalmonBallZ
+version: '${project.version}'
+main: sl.chai.salmonball.SalmonBallZ
+api-version: '1.20'
+prefix: [salmonball]
+authors: [chai, ara(h)m]
+description: mmm salkmon ball minigagme
+website: https://github.com/chaiznt/salmon-ball
